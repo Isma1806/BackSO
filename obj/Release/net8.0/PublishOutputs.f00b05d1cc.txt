@@ -1,0 +1,17 @@
+/var/www/investigacionso-api/InvestigacionSO.Api
+/var/www/investigacionso-api/appsettings.Development.json
+/var/www/investigacionso-api/appsettings.json
+/var/www/investigacionso-api/InvestigacionSO.Api.dll
+/var/www/investigacionso-api/InvestigacionSO.Api.runtimeconfig.json
+/var/www/investigacionso-api/InvestigacionSO.Api.pdb
+/var/www/investigacionso-api/Microsoft.AspNetCore.OpenApi.dll
+/var/www/investigacionso-api/Microsoft.EntityFrameworkCore.dll
+/var/www/investigacionso-api/Microsoft.EntityFrameworkCore.Abstractions.dll
+/var/www/investigacionso-api/Microsoft.EntityFrameworkCore.Relational.dll
+/var/www/investigacionso-api/Microsoft.OpenApi.dll
+/var/www/investigacionso-api/MySqlConnector.dll
+/var/www/investigacionso-api/Pomelo.EntityFrameworkCore.MySql.dll
+/var/www/investigacionso-api/Swashbuckle.AspNetCore.Swagger.dll
+/var/www/investigacionso-api/Swashbuckle.AspNetCore.SwaggerGen.dll
+/var/www/investigacionso-api/Swashbuckle.AspNetCore.SwaggerUI.dll
+/var/www/investigacionso-api/InvestigacionSO.Api.deps.json

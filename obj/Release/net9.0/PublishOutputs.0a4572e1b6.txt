@@ -1,0 +1,12 @@
+C:\Users\ismae\Desktop\InvestigacionSO\InvestigacionSO\Backend\InvestigacionSO.Api\bin\Release\net9.0\publish\InvestigacionSO.Api.exe
+C:\Users\ismae\Desktop\InvestigacionSO\InvestigacionSO\Backend\InvestigacionSO.Api\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\ismae\Desktop\InvestigacionSO\InvestigacionSO\Backend\InvestigacionSO.Api\bin\Release\net9.0\publish\appsettings.json
+C:\Users\ismae\Desktop\InvestigacionSO\InvestigacionSO\Backend\InvestigacionSO.Api\bin\Release\net9.0\publish\InvestigacionSO.Api.dll
+C:\Users\ismae\Desktop\InvestigacionSO\InvestigacionSO\Backend\InvestigacionSO.Api\bin\Release\net9.0\publish\InvestigacionSO.Api.deps.json
+C:\Users\ismae\Desktop\InvestigacionSO\InvestigacionSO\Backend\InvestigacionSO.Api\bin\Release\net9.0\publish\InvestigacionSO.Api.runtimeconfig.json
+C:\Users\ismae\Desktop\InvestigacionSO\InvestigacionSO\Backend\InvestigacionSO.Api\bin\Release\net9.0\publish\InvestigacionSO.Api.pdb
+C:\Users\ismae\Desktop\InvestigacionSO\InvestigacionSO\Backend\InvestigacionSO.Api\bin\Release\net9.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ismae\Desktop\InvestigacionSO\InvestigacionSO\Backend\InvestigacionSO.Api\bin\Release\net9.0\publish\Microsoft.OpenApi.dll
+C:\Users\ismae\Desktop\InvestigacionSO\InvestigacionSO\Backend\InvestigacionSO.Api\bin\Release\net9.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ismae\Desktop\InvestigacionSO\InvestigacionSO\Backend\InvestigacionSO.Api\bin\Release\net9.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ismae\Desktop\InvestigacionSO\InvestigacionSO\Backend\InvestigacionSO.Api\bin\Release\net9.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
