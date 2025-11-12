@@ -1,4 +1,7 @@
 using InvestigacionSO.Api.Data;
+using Microsoft.OpenApi.Models;
+using Microsoft.EntityFrameworkCore;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
